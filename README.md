@@ -7,7 +7,7 @@ If you find this project helpful and would like to support its continued develop
 You can donate via the following platforms:
 
 1. **PayPal**  
-   [Donate via PayPal](https://www.paypal.com/donate/example-link)  
+   [Donate via PayPal](https://www.paypal.com/paypalme/vanhbaka)  
 
 2. **Crypto**  
    - **Ton**: `UQABOtzug-KWStTEAYYJhaVL0SaLgHtoCWIQzZ4IqaSaA1ue`
