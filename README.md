@@ -11,8 +11,6 @@ You can donate via the following platforms:
 
 2. **Crypto**  
    - **Ton**: `UQABOtzug-KWStTEAYYJhaVL0SaLgHtoCWIQzZ4IqaSaA1ue`
-   - **Ethereum**: `0xf9c1d124de9c62adc5f3088e20808c41f8761107`
-   - **Bitcoin**: `3Bn21TRJbsKMAriJpdCxfET7sWUBUbq2e3`
 
 Your donations help:
  
